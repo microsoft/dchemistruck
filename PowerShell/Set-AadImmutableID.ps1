@@ -96,7 +96,6 @@ Process
             $userObject | add-member -name userprincipalname -type noteproperty -value $user.UserPrincipalName
             $userObject | add-member -name immutableID -type noteproperty -value  $immutableID
             $immutableIdList += $userObject
-            $progressCounter++
         }
         else
         {
@@ -108,6 +107,7 @@ Process
             $logObject| add-member -membertype NoteProperty -name "Time" -Value $(get-date -Format yyyy-MM-dd_HH:mm:ss)
             $errorLogs += $logObject
         }
+	$progressCounter++
     }
 }
 
