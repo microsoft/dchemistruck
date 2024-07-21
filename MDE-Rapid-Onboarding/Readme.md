@@ -1,5 +1,5 @@
 # Purpose
-The goal of this repository is to provide baseline settings for a rapid deployment for Microsoft Defender for Endpoint using the security.microsoft.com management policies only for configuration.
+The goal of this repository is to provide baseline settings for a rapid deployment for Microsoft Defender for Endpoint using the security.microsoft.com management policies only for configuration. Repository was created with assistance from Joe Rodrigues (joerodrigues@microsoft.com).
 
 Licensing Requirements: Microsoft Defender for Endpoint P2.
 
@@ -19,7 +19,7 @@ The files in this repo populate the following areas in Intune:
 
 ![Screenshot of the Device Configuration pane in the Microsoft Intune portal.](https://github.com/microsoft/dchemistruck/blob/main/Images/TVM-Configurations.png)
 # Instructions
-1. Download the [TVM-Baselines](https://github.com/microsoft/dchemistruck/blob/main/Intune-MDE-TVM-Baselines/TVM-Baselines.zip) zip file and extract all files to a temporary location.
+1. Download the [MDE-Rapid-Onboarding-Baselines](https://github.com/microsoft/dchemistruck/blob/main/MDE-Rapid-Onboarding/MDE-Rapid-Onboarding.zip) zip file and extract all files to a temporary location.
 2. Download the [IntuneManagement tool](https://github.com/Micke-K/IntuneManagement/archive/refs/heads/master.zip). Documentation [here](https://github.com/Micke-K/IntuneManagement).
 3. Extract the **IntuneManagement** tool and run the executable **Start.cmd** as administrator. 
     > You may be prompted to **Unblock** the file or **Run Anyways**.
