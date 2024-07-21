@@ -25,7 +25,7 @@ The files in this repo populate the following areas in Intune:
     > You may be prompted to **Unblock** the file or **Run Anyways**.
 4. Sign in with a **Global Administrator** or **Security Administrator** account by clicking the profile icon in the top right of the tool.
 	 >If this is your first time using this tool in a tenant, after you grant permissions on your initial sign in, you'll need to:  sign out, close the tool and reopen before you can import the settings.
-5. Go to **Bulk** > **Import** and select the root folder of the **TVM-Baselines**. Then import.
+5. Go to **Bulk** > **Import** and select the root folder of the **MDE-Rapid-Onboarding-Baselines**. Then import.
 ![Screenshot of the IntuneManagent tool.](https://github.com/microsoft/dchemistruck/blob/main/Images/TVM-IntuneManagementTool.png)
 6. All of the policies get imported as unassigned, so you'll need to assign them to a group for testing.
 7. Note: these baselines do not include the tenant onboarding packages for Microsoft Defender for Endpoint.
