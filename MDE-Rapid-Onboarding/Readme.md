@@ -3,17 +3,17 @@ The goal of this repository is to provide baseline settings for a rapid deployme
 
 Licensing Requirements: Microsoft Defender for Endpoint P2.
 
-![Screenshot of the Endpoint Security Policies blade in the Microsoft Defender XDR portal.](https://github.com/microsoft/dchemistruck/blob/main/Images/MDE-IntuneManager-Policies.jpg)
-
 # What's Created?
 The files in this repo populate the following areas in Intune:
 
  - **Endpoint Security**
-	 - Antivirus Configurations
-	 - Intelligence Update Rings
-	 - Tamper Protection
+   - Antivirus Configurations
+   - Intelligence Update Rings
+   - Tamper Protection
    - Basic Firewall enablement
    - Attack Surface Reduction Rules
+  
+![Screenshot of the Endpoint Security Policies blade in the Microsoft Defender XDR portal.](https://github.com/microsoft/dchemistruck/blob/main/Images/MDE-IntuneManager-Policies.jpg)
 
 > WARNING! The 'Enforcement' version of these policies will break certain legacy applications that rely on unsecure practices, such as using LDAP (instead of LDAPS), Basic Authentication, NTLMv1, or executing JavaScript/Web requests from a PDF or Office file.
 
