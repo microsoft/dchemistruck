@@ -35,6 +35,6 @@ Once you're finished importing, your Settings Catalog should look like this:
 
 In the [Microsoft Defender XDR](https://security.microsoft.com) portal, you should review the following two policies:
 
-[Screenshot of the Onboard Defender Antivirus - Active Mode - Basic policy.](https://github.com/microsoft/dchemistruck/blob/main/Images/MDE-IntuneManager-Onboarding.jpg)
+![Screenshot of the Onboard Defender Antivirus - Active Mode - Basic policy.](https://github.com/microsoft/dchemistruck/blob/main/Images/MDE-IntuneManager-Onboarding.jpg)
 
-[Screenshot of the Enforce Defender Antivirus - Active Mode - Strict policy.](https://github.com/microsoft/dchemistruck/blob/main/Images/MDE-IntuneManager-Strict.jpg)
+![Screenshot of the Enforce Defender Antivirus - Active Mode - Strict policy.](https://github.com/microsoft/dchemistruck/blob/main/Images/MDE-IntuneManager-Strict.jpg)
