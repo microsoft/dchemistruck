@@ -3,7 +3,7 @@ The goal of this repository is to provide baseline settings for a rapid deployme
 
 Licensing Requirements: Microsoft Defender for Endpoint P2.
 
-![Screenshot of the Threat and Vulnerability Management dashboard in Microsoft Defender for Endpoint.](https://github.com/microsoft/dchemistruck/blob/main/Images/TVM-Dashboard.png)
+![Screenshot of the Endpoint Security Policies blade in the Microsoft Defender XDR portal.](https://github.com/microsoft/dchemistruck/blob/main/Images/MDE-IntuneManager-Policies.jpg)
 
 # What's Created?
 The files in this repo populate the following areas in Intune:
@@ -17,7 +17,6 @@ The files in this repo populate the following areas in Intune:
 
 > WARNING! The 'Enforcement' version of these policies will break certain legacy applications that rely on unsecure practices, such as using LDAP (instead of LDAPS), Basic Authentication, NTLMv1, or executing JavaScript/Web requests from a PDF or Office file.
 
-![Screenshot of the Endpoint Security Policies blade in the Microsoft Defender XDR portal.](https://github.com/microsoft/dchemistruck/blob/main/Images/MDE-IntuneManager-Policies.jpg)
 # Instructions
 1. Download the [MDE-Rapid-Onboarding](https://github.com/microsoft/dchemistruck/blob/main/MDE-Rapid-Onboarding/MDE-Rapid-Onboarding.zip) zip file and extract all files to a temporary location.
 2. Download the [IntuneManagement tool](https://github.com/Micke-K/IntuneManagement/archive/refs/heads/master.zip). Documentation [here](https://github.com/Micke-K/IntuneManagement).
