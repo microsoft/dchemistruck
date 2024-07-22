@@ -30,7 +30,7 @@ The files in this repo populate the following areas in Intune:
 7. Note: these baselines do not include the tenant onboarding packages for Microsoft Defender for Endpoint.
 
 Once you're finished importing, your Settings Catalog should look like this:
-[Screenshot of the IntuneManagent Export tool.](https://github.com/microsoft/dchemistruck/blob/main/Images/MDE-IntuneManager-Export.jpg)
+![Screenshot of the IntuneManagent Export tool.](https://github.com/microsoft/dchemistruck/blob/main/Images/MDE-IntuneManager-Export.jpg)
 
 In the [Microsoft Defender XDR](https://security.microsoft.com) portal, you should review the following two policies:
 
