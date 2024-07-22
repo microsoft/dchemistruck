@@ -1,5 +1,5 @@
 # Purpose
-The goal of this repository is to provide baseline settings for a rapid deployment for Microsoft Defender for Endpoint using the security.microsoft.com management policies only for configuration. Repository was created with assistance from Joe Rodrigues (joerodrigues@microsoft.com).
+The goal of this repository is to provide baseline settings for a rapid deployment for Microsoft Defender for Endpoint using the security.microsoft.com management policies only for configuration.
 
 Licensing Requirements: Microsoft Defender for Endpoint P2.
 
@@ -37,3 +37,6 @@ In the [Microsoft Defender XDR](https://security.microsoft.com) portal, you shou
 ![Screenshot of the Onboard Defender Antivirus - Active Mode - Basic policy.](https://github.com/microsoft/dchemistruck/blob/main/Images/MDE-IntuneManager-Onboarding.jpg)
 
 ![Screenshot of the Enforce Defender Antivirus - Active Mode - Strict policy.](https://github.com/microsoft/dchemistruck/blob/main/Images/MDE-IntuneManager-Strict.jpg)
+
+
+Repository was created with assistance from Joe Rodrigues (joerodrigues@microsoft.com).
