@@ -23,7 +23,7 @@ The files in this repo populate the following areas in Intune:
 > WARNING! The 'Enforcement' version of these policies will break certain legacy applications that rely on unsecure practices, such as using LDAP (instead of LDAPS), Basic Authentication, NTLMv1, or executing JavaScript/Web requests from a PDF or Office file.
 
 # Instructions
-1. Download the [MDE-Rapid-Onboarding](https://github.com/microsoft/dchemistruck/blob/main/MDE-Rapid-Onboarding/MDE-Rapid-Onboarding.zip) zip file and extract all files to a temporary location.
+1. Download the [MDE-Rapid-Configuration](https://github.com/microsoft/dchemistruck/blob/main/MDE-Rapid-Onboarding/MDE-Rapid-Configuration.zip) zip file and extract all files to a temporary location.
 2. Download the [IntuneManagement tool](https://github.com/Micke-K/IntuneManagement/archive/refs/heads/master.zip). Documentation [here](https://github.com/Micke-K/IntuneManagement).
 3. Extract the **IntuneManagement** tool and run the executable **Start.cmd** as administrator. 
     > You may be prompted to **Unblock** the file or **Run Anyways**.
