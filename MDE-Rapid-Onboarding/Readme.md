@@ -3,7 +3,7 @@ The goal of this repository is to provide baseline settings for a rapid configur
 
 These baselines should be used for Proof of Concept deployments, or as a starting point for new deployments.
 
-**Requirements**
+**Prerequisites**
 - Microsoft Defender for Endpoint P2 licensing.
 - [Onboard Devices with your chosen deployment option](https://learn.microsoft.com/en-us/defender-endpoint/deployment-strategy#step-2-select-deployment-method).
 - Enable [MDE-Attach](https://learn.microsoft.com/en-us/mem/intune/protect/mde-security-integration) in the tenant.
