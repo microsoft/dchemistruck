@@ -1,7 +1,12 @@
 # Purpose
-The goal of this repository is to provide baseline settings for a rapid deployment for Microsoft Defender for Endpoint using the security.microsoft.com management policies only for configuration.
+The goal of this repository is to provide baseline settings for a rapid configuration of Microsoft Defender for Endpoint P2 on Windows endpoints using the [Security Settings Management ](https://learn.microsoft.com/en-us/defender-endpoint/manage-security-policies) feature in the [Microsoft Defender XDR](https://security.microsoft.com/policy-inventory )portal.
 
-Licensing Requirements: Microsoft Defender for Endpoint P2.
+These baselines should be used for Proof of Concept deployments, or as a starting point for new deployments.
+
+**Requirements**
+- Microsoft Defender for Endpoint P2 licensing.
+- [Onboard Devices with your chosen deployment option](https://learn.microsoft.com/en-us/defender-endpoint/deployment-strategy#step-2-select-deployment-method).
+- Enable [MDE-Attach](https://learn.microsoft.com/en-us/mem/intune/protect/mde-security-integration) in the tenant.
 
 # What's Created?
 The files in this repo populate the following areas in Intune:
