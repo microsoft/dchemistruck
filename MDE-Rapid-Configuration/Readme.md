@@ -1,5 +1,5 @@
 # Purpose
-The goal of this repository is to provide baseline settings for a rapid configuration of Microsoft Defender for Endpoint P2 on Windows endpoints using the [Security Settings Management ](https://learn.microsoft.com/en-us/defender-endpoint/manage-security-policies) feature in the [Microsoft Defender XDR](https://security.microsoft.com/policy-inventory )portal.
+The goal of this repository is to provide baseline settings for a rapid configuration of Microsoft Defender for Endpoint P2 on Windows endpoints using the [Security Settings Management ](https://learn.microsoft.com/en-us/defender-endpoint/manage-security-policies) feature in the [Microsoft Defender XDR](https://security.microsoft.com/policy-inventory ) portal.
 
 These baselines should be used for Proof of Concept deployments, or as a starting point for new deployments.
 
