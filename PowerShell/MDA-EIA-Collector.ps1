@@ -26,7 +26,7 @@
     The local path where files will be downloaded and processed. Default is "C:\temp\MDA".
 
 .PARAMETER ftpUserName
-    The username for the FTP server. Default is "discover".
+    The username for the FTP server. Default is "discovery".
 
 .PARAMETER ftpPassword
     The password for the FTP server.
