@@ -251,7 +251,7 @@ function Copy-ToFTP {
         throw
     }    
 }
-
+# Call the functions above to gather, parse, and export the logs from Entra Internet Access to Defender for Cloud Apps.
 Get-EntraLogs -ErrorAction Stop
 Convert-EntraLogs -ErrorAction Stop
 Copy-ToFTP -ErrorAction Stop
